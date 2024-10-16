@@ -11,4 +11,4 @@ LeetCode - Problems
 ### LeetCode Database
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)| [MySQL]()|Easy|
+|1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)| [MySQL](/database/RecyclableAndLowFatProducts.SQL)|Easy|
